@@ -52,14 +52,29 @@
   margin: auto;
   width: auto;
   width: 60%;
-  padding-top: 1%;
+  padding-top: 0.5%;
+}
+
+.Innerh1 h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .InnerP {
   margin: auto;
   width: auto;
   width: 80%;
-  padding-top: 1%;
+  padding-top: 2px;
+}
+
+.InnerP p {
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: narrower;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  line-height: 180%;
+
 }
 
 .Innerbtn {

@@ -8,10 +8,10 @@ function App() {
       <div className='MainApp'>
         <div className='InnerMainDiv1'>
           <div className='Innerh1'>
-            <h1>ShppName</h1>
+            <h1>GetPosh</h1>
           </div>
           <div className='InnerP'>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas?</p>
+            <p>Fashion is a form of self-expression with a specific context, such as time, place and purpose. GetPosh is such a innovative shop that promotes the higher brands for branded People.</p>
           </div>
           <div className='Innerbtn'>
             <button className='ShopBtn'>Visit Shop</button>

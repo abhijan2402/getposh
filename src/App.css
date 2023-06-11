@@ -103,10 +103,11 @@
   text-decoration: none;
 }
 
-/* 
-a:visited {
-  color: white;
-} */
+.ShopLG {
+  width: 10%;
+  height: 10%;
+  margin-left: 5%;
+}
 
 .img_to_view {
   width: 100%;
@@ -137,6 +138,12 @@ a:visited {
   .InnerMainDiv1 {
     width: 100%;
     margin-bottom: 5%;
+  }
+
+  .ShopLG {
+    width: 20%;
+    height: 20%;
+    margin-left: 5%;
   }
 
 }

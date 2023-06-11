@@ -21,7 +21,7 @@ function App() {
           </div>
           :
           <>
-            <Lottie animationData={ShopLogo} style={{ width: "10%", height: "10%", marginLeft: "5%" }} />
+            <Lottie animationData={ShopLogo} className='ShopLG' />
             <div className='MainApp'>
               <div className='InnerMainDiv1'>
                 <div className='Innerh1'>

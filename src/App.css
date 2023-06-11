@@ -55,6 +55,14 @@
   padding-top: 0.5%;
 }
 
+.AppInnerDiv {
+  height: 2cm;
+  width: 2cm;
+  /* border: 1px solid red; */
+  padding-top: 3%;
+  padding-left: 5%;
+}
+
 .Innerh1 h1 {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -92,12 +100,13 @@
   border: 0px;
   font-size: 25px;
   transition: 0.7s ease-in-out;
+  text-decoration: none;
 }
 
-.ShopBtn:hover {
-  background-color: rgb(204, 3, 3);
-  color: rgb(238, 237, 237);
-}
+/* 
+a:visited {
+  color: white;
+} */
 
 .img_to_view {
   width: 100%;

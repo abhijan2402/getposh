@@ -12,7 +12,7 @@ function App() {
 
   return (
     <Routes>
-      <Route path='/getposh' element={<Main />} />
+      <Route path='/' element={<Main />} />
     </Routes>
 
   );
